@@ -1,0 +1,9 @@
+{
+  "schema_version": 1,
+  "name": "wildcat-brand-imagegen",
+  "display_name": "Wildcat Brand Imagegen",
+  "source_subtree": "plugins/wildcat-brand-imagegen",
+  "authorization": "fiat-contributor-check",
+  "authentication": "on-use",
+  "reference_mode": "request-scoped-temporary-directory"
+}

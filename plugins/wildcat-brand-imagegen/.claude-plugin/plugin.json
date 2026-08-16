@@ -1,0 +1,12 @@
+{
+  "name": "wildcat-brand-imagegen",
+  "displayName": "Wildcat Brand Imagegen",
+  "version": "0.1.0",
+  "description": "Contributor-gated Wildcat brand and mascot references for image generation, fetched only for the active request.",
+  "author": {
+    "name": "Wildcat Labs",
+    "url": "https://wildcat.finance"
+  },
+  "repository": "https://github.com/wildcat-finance/mascot-imagegen-kit",
+  "skills": "./skills/"
+}
