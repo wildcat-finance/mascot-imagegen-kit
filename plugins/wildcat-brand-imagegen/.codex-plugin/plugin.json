@@ -1,0 +1,20 @@
+{
+  "name": "wildcat-brand-imagegen",
+  "version": "0.1.0",
+  "description": "Contributor-gated Wildcat brand and mascot references for image generation, fetched only for the active request.",
+  "author": {
+    "name": "Wildcat Labs",
+    "url": "https://wildcat.finance"
+  },
+  "repository": "https://github.com/wildcat-finance/mascot-imagegen-kit",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Wildcat Brand Imagegen",
+    "shortDescription": "Private Wildcat brand references, scoped to one image-generation request.",
+    "longDescription": "Uses Fiat's contributor authorization before fetching the private Wildcat brand and mascot references into a temporary directory. Matching image-generation requests receive the references; unrelated requests never fetch them, and cleanup follows every attempt.",
+    "developerName": "Wildcat Labs",
+    "category": "Creative",
+    "capabilities": ["Image generation"],
+    "defaultPrompt": "Create a Wildcat-branded visual using the private brand references."
+  }
+}
