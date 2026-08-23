@@ -1,0 +1,62 @@
+# Wildcat Lazarus
+
+Lazarus is the Wildcat as **keeper of the recoverable past**: the figure who takes a moment that has already vanished from the living world, preserves everything within it that can still be established, and later causes that moment to stand again exactly as it was received. His name invokes Lazarus of Bethany, called forth from the tomb after the ordinary course of time had already carried him beyond reach. The important quality of the image is therefore not immortality. Lazarus does not prevent things from passing away. His dominion begins after they have passed, when continued access can no longer be assumed and the question becomes whether some finite portion of what was once present can nevertheless be returned intact.
+
+His defining virtue is **faithful resurrection**.
+
+Lazarus should consequently appear neither as a necromancer nor as a prophet. He does not conjure what has been lost, infer what probably occupied an empty place, or complete the dead from imagination. He is an exacting custodian of remains. What enters his keeping is first bounded: one particular moment, one particular collection of objects, one particular set of observations. He preserves their identity, their arrangement and the relationships by which their integrity may later be tested. When the time comes to restore them, he returns only what was actually entombed. Ask him for something that was never placed under his seal and the appropriate answer is absence.
+
+He retains the canonical Wildcat form completely: a slender anthropomorphic feline with a sharply faceted pale head, extraordinarily tall triangular ears, broad wedge-shaped skull, angular cheek planes, tapered muzzle, pointed chin, heavy black brows and rectangular golden-yellow eyes. His anatomy is entirely ordinary and coherent—one head, one torso, two arms and two legs. Nothing about Lazarus himself is decayed, spectral, duplicated or monstrous. The supernatural implication belongs to the act occurring around him, not to his body. He should remain recognisably the same austere geometric creature as the canonical Wildcat, rendered with pale stone-like surfaces against near-black architecture and restrained brass or old-gold detail.
+
+His expression is severe but not mournful. The eyes should have the concentration of someone comparing a returned object against an earlier impression of it and refusing to accept resemblance as identity. He understands that a convincing imitation of the past is still false. There is therefore something almost funerary in his composure: the restraint of an officiant who knows precisely what may be said over the dead and precisely where invention would become desecration.
+
+His clothing should draw upon the visual language of a late-antique or medieval custodian of relics rather than that of a magician. A long charcoal or black mantle falls over a simple pale inner garment, fastened at the shoulders with small circular brass clasps. The cloth may be heavier than that worn by some other incarnations of the Wildcat, suggesting protection against dust, cold and long abandonment. Fine gold cords can descend from the clasps and converge upon a small seal or reliquary at the sternum. The costume should remain narrow and architectural, preserving the character's long vertical silhouette and leaving the angular head dominant.
+
+The setting is a vast **sepulchral archive**: part mausoleum, part reliquary chamber, part ancient record house. It should be cathedral-like in scale but arranged around preservation rather than worship. Endless ranks of black stone niches extend into darkness. Some contain sealed caskets, tablets, scrolls, vessels, fragments of sculpture or carefully wrapped bundles. Others are conspicuously empty. Each occupied recess belongs to one discrete moment or collection and is closed by a fitted stone or metal face bearing a seal, a date, a simple geometric emblem or a short inscription. Nothing is piled indiscriminately. The architecture communicates that a thing can return only because somebody first determined exactly what was being kept.
+
+At the centre stands Lazarus beside a large black stone table whose surface resembles a tomb slab. Upon it lies a single bounded assemblage: perhaps a broken vessel, several inscribed tablets, a folded document, a small metal object and a handful of other mundane artefacts arranged inside a precise rectangular perimeter. Their arrangement is deliberate enough that every object's place appears meaningful. Thin brass pins or corner brackets mark the boundary. A heavy seal closes one edge. This is not a collection intended to represent an entire vanished civilisation. It is one finite preserved scene.
+
+The central visual act should be **return without alteration**. One end of the table may contain a sealed dark stone coffer or recessed sarcophagus from which the preserved assemblage is being raised into view. The objects emerge not as ghosts but materially, illuminated by a narrow shaft of pale overhead light. Their surfaces remain dusty, cracked or aged exactly where they were cracked or aged before. Nothing is repaired merely because repair would make the resurrection prettier. A vessel preserved with a chip returns with the same chip. A page with a missing corner returns incomplete. A tablet whose inscription ends abruptly is not supplied with a plausible final line.
+
+Lazarus may hold one small object between two fingers—perhaps a seal, shard, coin or inscribed token—while his other hand rests upon the stone boundary of the preserved assemblage. His gesture should suggest comparison rather than presentation. Nearby, a corresponding impression, indentation or recorded outline establishes where the object belonged. The returned piece aligns exactly. The symbolism is simple: resurrection is legitimate because the thing now standing in the light can still be held against what was preserved in darkness.
+
+Around the central table, the distinction between **what can be demonstrated** and **what can merely be repeated** should become architectural. Some preserved objects are accompanied by physical chains of corroboration: fitted impressions, matching seals, nested containers, keyed recesses, measured outlines or fragments whose edges interlock. These possess visible grounds for confidence. Other observations survive only as sealed witness slips or written testimony stored beside the collection. They are still preserved faithfully, but the image should not pretend that repeating a witness's words gives them the same status as a shard that physically matches its fracture.
+
+This distinction can be expressed through several levels of materiality. The strongest objects sit directly upon the central slab, anchored by brass geometry to their original positions. Secondary testimony rests in adjacent narrow cases under glass or crystal, intact but visually separate. Beyond them are dark niches marked only by labels. Lazarus has preserved all three honestly, but he has refused to collapse them into one undifferentiated category of certainty.
+
+Exact repetition should be another major motif. Along one side of the chamber stands a row of paired stations. At the rear of each pair is an old sealed object; at the front is its returned counterpart. Their dimensions, orientation, blemishes and inscriptions coincide precisely. A cracked amphora retains the same crack. A folded parchment retains the same fold. A group of counters sits in the same order. The repetition is almost uncanny precisely because nothing has been improved.
+
+One station should deliberately terminate in emptiness. Its outer plaque or requesting frame is present, but the corresponding inner niche was never filled. There is no reconstruction, substitute or symbolic placeholder. Perhaps a brass shutter has descended across it, or a small black tablet simply reads in restrained Latin:
+
+**NON SERVATVM
+NON REDDITVR**
+
+*What was not preserved is not returned.*
+
+This should be one of the governing principles of the composition. Lazarus's power is impressive because it is bounded.
+
+The biblical inheritance may be invoked more directly through the architecture without turning the scene into literal religious illustration. Behind Lazarus, at the far end of the chamber, stands a monumental stone doorway shaped like the mouth of a tomb. Its enormous circular closing stone has been rolled aside only far enough to expose a narrow interior passage. From that darkness runs the central preservation table, as though the vanished moment itself has been called outward. The reference should be unmistakable but austere: resurrection interpreted as the return of something specifically entombed, not as an explosion of mystical energy.
+
+Bindings and wrappings may echo the grave-clothes of the Lazarus story. Some preserved bundles are secured in pale linen bands beneath their seals. When opened, those bands remain neatly folded beside them rather than disappearing. Nothing about the act of restoration erases the history of preservation itself. The means by which the thing survived remain part of the evidence surrounding its return.
+
+A second important image is **the fixed moment**. High above the central tomb-table, a great astronomical or calendrical instrument may be arrested at one precise configuration: several concentric brass rings, a numbered dial and a single pointer held immovably over one mark. Around the chamber, clocks and hourglasses are not running. Their purpose is not to represent time passing but time selected. Every preserved chamber corresponds to one already-finished instant. Lazarus does not preserve an indefinite stream of history. He closes his hand around one bounded point and refuses to let its contents drift thereafter.
+
+The chamber should contain many visible signs of exclusion. Brass rails stop abruptly at the edges of each preserved region. Curtains or shutters conceal neighbouring spaces that were not included. Several cabinets may remain entirely black and unlabelled. These absences are not failures of the composition; they are essential. The world beyond the chosen boundary may have contained innumerable other things, but Lazarus has no authority to manufacture them after the fact.
+
+A further motif should concern **verification before resurrection**. The tomb does not simply open because somebody wishes to see what is inside. Heavy locking mechanisms surround the central coffer: concentric seals, keyed rings, matched impressions and balances. Lazarus has already opened several of them, and each displaced seal remains visible beside its corresponding mark. The visual suggestion is that restoration is conditional upon the preserved whole still agreeing with itself. A broken seal, mismatched impression or displaced object would stop the process rather than merely diminish confidence in it.
+
+This can culminate in a large inscription above the tomb entrance:
+
+**QVOD SERVATVM EST REDIRE POTEST
+QVOD REDIIT IDEM ESSE DEBET**
+
+*What has been preserved may return.
+What returns must be the same.*
+
+The imagery should avoid ordinary fantasy tropes of resurrection—no green necromantic glow, skeletons, souls, graveyards, lightning or raised corpses. Lazarus is concerned with a colder and more disciplined miracle. His resurrection is archival rather than biological: a vanished arrangement of reality made present again because its finite contents were deliberately bounded, sealed, preserved and later subjected to exact comparison.
+
+The palette should remain almost entirely black, charcoal, pale stone and antique gold. The only strong illumination is a narrow column of cold white light descending upon Lazarus and the returned assemblage. Everything outside the preserved boundary falls rapidly into shadow. The light itself therefore becomes semantic: not universal revelation, but a finite region wrested from historical darkness.
+
+The image should ultimately feel less like someone bringing the dead back to life than like someone demonstrating that **this particular part of the dead never ceased to be recoverable**. The surrounding darkness may contain an immeasurable lost world. Lazarus makes no claim upon it. Before him, however, one sealed moment has been called forth, tested against the marks that survived it, and permitted to stand again.
+
+That is the essential character of Wildcat Lazarus: **the custodian who can summon the past only because he first refused to preserve it carelessly.**
